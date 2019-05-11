@@ -1,0 +1,7 @@
+*.egg-info
+norilog.json
+venv
+winenv
+setupenv
+__pycache__
+dist
