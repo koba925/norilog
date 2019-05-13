@@ -1,0 +1,8 @@
+Click==7.0
+Flask==1.0.2
+itsdangerous==1.1.0
+Jinja2==2.10.1
+MarkupSafe==1.1.1
+# Editable Git install with no remote (norilog==1.0.0)
+-e c:\users\takahiro\documents\study\ppp3\work\src\norilog
+Werkzeug==0.15.2
